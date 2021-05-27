@@ -30,6 +30,6 @@ body {
   filter: blur(6px);
 }
 time {
-  font-size: 10em;
+  font-size: 25vmin;
   color: white;
 }
